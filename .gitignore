@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Model and large artifacts
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+models/
+Modelos/**/model.safetensors
+
+# Logs and temp
+logs/
+*.log
+tmp/
+
+# Dataset
+Dados/**
+
+# Ignore local secrets
+.env.local
+secrets.json
+
+# Coverage
+htmlcov/
+.coverage
+
+# PyInstaller
+*.manifest
+*.spec
