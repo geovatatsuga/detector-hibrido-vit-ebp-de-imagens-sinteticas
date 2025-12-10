@@ -44,13 +44,12 @@ A abordagem combina dois módulos complementares:
 
 O EBP analiza propriedades estruturais da imagem para identificar padrões artificiais.
 
-**Etapas:**
 
 1. Conversão para escala de cinza
 2. Aplicação de Gaussian Blur 3×3
 3. Extração de bordas com Canny
 4. Construção do **Edge Difference Map (D)**
-5. Cálculo de:
+5. Cálcula =:
 
    * **Nedges**: quantidade de pixels de borda discrepantes
    * **Var(D)**: variância do mapa de diferenças
