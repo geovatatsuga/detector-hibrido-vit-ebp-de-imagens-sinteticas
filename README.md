@@ -55,8 +55,7 @@ O EBP analiza propriedades estruturais da imagem para identificar padrões artif
    * **Var(D)**: variância do mapa de diferenças
 6. Cálculo do Structural Score (SI):
 
-\(SI = \frac{N_{\text{edges}}}{Var(D) + \epsilon}\)
-
+SI = N_edges / (Var(D) + ε)
 
 Esse score é usado como critério adicional para distinguir imagens reais de sintéticas.
 
