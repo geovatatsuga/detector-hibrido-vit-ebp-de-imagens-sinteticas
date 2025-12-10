@@ -2,7 +2,7 @@
 
 ### Vision Transformer (ViT) + Edge-Based Processing (EBP)
 
-Leia no Medium : **
+Leia no Medium : *https://medium.com/@jeova.anderson/combinando-vision-transformers-e-an%C3%A1lise-de-bordas-ebp-para-detectar-imag%C3%A9ns-sinteticas-8d5142ae1623?postPublishedType=initial*
 
 ---
 
